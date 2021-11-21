@@ -47,6 +47,11 @@ public class AudioEventManager : MonoBehaviour
             sound.audioSrc.Play();
         }
     }
+
+    void playerDodge() {
+        // do nothing~~
+    }
+
 }
 
 //test confict
